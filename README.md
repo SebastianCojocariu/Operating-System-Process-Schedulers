@@ -1,6 +1,6 @@
 Sebastian Cojocariu 321CB UPB ACS                       
 
-				                               Operating System Process Schedulers
+				            Operating System Process Schedulers
 
 
    Clasa abstracta Processes va fi mostenita de cele 7 clase reprezentand taskurile 
